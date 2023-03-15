@@ -20,3 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="INTELLIG IDEA" width="40" height="40"/>&nbsp;&nbsp;
 
 ---
+
+<div id="stat" align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FlickFun&theme=github_dark"/>
+</div>
