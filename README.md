@@ -29,5 +29,5 @@
 
 <div id="stat" align="center">
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flickfun&theme=github_dark"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FlickFun&theme=github_dark"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flickfun&theme=github_dark"/>
 </div>
