@@ -1,6 +1,6 @@
 <div id="header" align="center">
 	<h1>Hi there, I'm Anatoliy</h1>
-	<h3>Full Stack Developer</h3>
+	<h3>Full Stack Android Developer</h3>
 </div>
 <div id="socials" align="center">
 	<a href="anatoliy_ff">
