@@ -20,7 +20,8 @@
 ---
 <br/>
 
-## [KinoPoiskLite Github](https://github.com/FlickFun/KinoPoiskLite) - Android application 
+## [KinoPoiskLite Github](https://github.com/FlickFun/KinoPoiskLite)
+##### Example Android application (Clean Architecture, MVVM, Dagger-Hilt, Retrofit2, Room, Firebase, Material Design3, Flow, RxJava3, Coroutines) 
 	Приложение для просмотра информации о фильмах и сериалах. 
 	Фильмы и сериалы можно добавлять в избранное и просматривать offline. 
 	Авторизованный пользователь видит только свой список избранных фильмов.
