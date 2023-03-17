@@ -1,8 +1,10 @@
-<div id="socials" align="center">
+<br/>
+<div id="socials" align="left">
 	<a href="anatoliy_ff">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
+<br/>
 
 ---
 
@@ -17,8 +19,14 @@
 
 ---
 
+<br/>
+
 ## [KinoPoiskLite Github](https://github.com/FlickFun/KinoPoiskLite) - Android application 
 
 	Приложение для просмотра информации о фильмах и сериалах. 
 	Фильмы и сериалы можно добавлять в избранное и просматривать offline. 
 	Авторизованный пользователь видит только свой список избранных фильмов.
+
+<div align="right">  
+	<a href='https://play.google.com/store/apps/details?id=com.fsoftstudio.kinopoisklite&utm_source=GitHub&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Доступно в Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/ru_badge_web_generic.png' width="150"/></a>
+</div>
