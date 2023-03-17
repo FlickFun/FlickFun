@@ -1,7 +1,3 @@
-<div id="header" align="center">
-	<h1>Hi there, I'm Anatoliy</h1>
-	<h3>Full Stack Android Developer</h3>
-</div>
 <div id="socials" align="center">
 	<a href="anatoliy_ff">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
@@ -26,8 +22,3 @@
 </div>
 
 ---
-
-<div id="stat" align="center">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flickfun&theme=github_dark"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=flickfun&theme=github_dark"/>
-</div>
