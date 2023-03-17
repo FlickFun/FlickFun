@@ -18,11 +18,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="INTELLIG IDEA" width="40" height="40"/>&nbsp;&nbsp;
 
 ---
-
 <br/>
 
 ## [KinoPoiskLite Github](https://github.com/FlickFun/KinoPoiskLite) - Android application 
-
 	Приложение для просмотра информации о фильмах и сериалах. 
 	Фильмы и сериалы можно добавлять в избранное и просматривать offline. 
 	Авторизованный пользователь видит только свой список избранных фильмов.
