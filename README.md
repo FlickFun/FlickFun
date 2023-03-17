@@ -16,9 +16,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" title="INTELLIG IDEA" width="40" height="40"/>&nbsp;&nbsp;
 
 ---
-
-<div align="center">
-	<img src="https://github.com/FlickFun/FlickFun/blob/main/dev.JPG"/>
-</div>
-
----
