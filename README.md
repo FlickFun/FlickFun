@@ -25,6 +25,8 @@
 	Приложение для просмотра информации о фильмах и сериалах. 
 	Фильмы и сериалы можно добавлять в избранное и просматривать offline. 
 	Авторизованный пользователь видит только свой список избранных фильмов.
+	Переодически делается запрос на проверку изменений в топ фильмов или сериалов 
+	и, при изменениии, приходит уведомление.
 
 <div align="right">  
 	<a href='https://play.google.com/store/apps/details?id=com.fsoftstudio.kinopoisklite&utm_source=GitHub&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Доступно в Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/ru_badge_web_generic.png' width="150"/></a>
